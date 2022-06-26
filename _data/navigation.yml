@@ -1,11 +1,19 @@
 # main links
+---
+author_profile: true
+sidebar:
+  nav: "main"
+---
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "dev"
+  children:
+  - title: "study"
+    url: /study/
+    category: "study"
+   #- title: "블로그"
+  #   url: "/blog"
+  # - title: "카테고리 B"
+  #     url: "CategoryB"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
