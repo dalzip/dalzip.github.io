@@ -1,15 +1,10 @@
 # main links
 ---
 author_profile: true
-sidebar:
-  nav: "main"
 ---
 main:
-  - title: "dev"
-  children:
   - title: "study"
     url: /study/
-    category: "study"
    #- title: "블로그"
   #   url: "/blog"
   # - title: "카테고리 B"
